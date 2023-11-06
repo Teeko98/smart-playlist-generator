@@ -3,7 +3,6 @@ This program allows a user to enter a song and generates a playlist of similar s
 
 ## User Guide
 ### Application Files
-The files necessary to run the application will be contained within the folder “main_application.”
 The application runs through a Jupyter Notebook utilizing ipywidgets to display user interface elements and Voila to run the code in its own window. In order to get the application up and running, make sure to closely follow the installation steps found within the user guide.
 ### Installation
 This application utilizes Conda to streamline the installation process of all the necessary libraries.
