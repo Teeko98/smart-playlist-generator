@@ -40,13 +40,26 @@ application:
 
     ```voila app.ipynb```
 14. The application will now open in a separate browser window
-    
+
+    <img width="372" alt="img1" src="https://github.com/Teeko98/smart-playlist-generator/assets/24867742/cdda7188-9470-4168-9094-89a678f4b798">
+
 ### Generating a playlist
 1. Type out an artist, song, or an artist followed by song into the text field and click the search
 button.  
-<sub>(Note: If searching for a specific song by an artist, type out the full artist name followed by the song)</sub>
-2. A selection box with matching results will be displayed.
-3. Select the song you would like to generate the recommended playlist for and click the
+<sub>(Note: If searching for a specific song by an artist, type out the full artist name followed by the song)</sub>.
+
+    <img width="392" alt="img2" src="https://github.com/Teeko98/smart-playlist-generator/assets/24867742/63e8be26-d28f-4745-9ff5-b6881b3f435b">.
+
+3. A selection box with matching results will be displayed.
+
+    <img width="555" alt="img3" src="https://github.com/Teeko98/smart-playlist-generator/assets/24867742/10c1a22e-ea2d-401d-972c-6c10b8710d11">
+
+5. Select the song you would like to generate the recommended playlist for and click the
 ‘Generate’ button.
-4. The application will output a playlist of 30 songs in the form of a DataFrame with the artist
+
+    <img width="583" alt="img4" src="https://github.com/Teeko98/smart-playlist-generator/assets/24867742/1fb98de2-3ee3-4c12-a82b-0d40360c704c">.
+   
+7. The application will output a playlist of 30 songs in the form of a DataFrame with the artist
 name, track name, and similarity score of each song.
+
+    <img width="645" alt="img5" src="https://github.com/Teeko98/smart-playlist-generator/assets/24867742/a67eba61-af6b-4481-a441-29b246579561">
