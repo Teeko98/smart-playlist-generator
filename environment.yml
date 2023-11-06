@@ -1,0 +1,12 @@
+name: /Users/teeko/Desktop/C964/env
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
+  - ipywidgets
+  - voila
+prefix: /Users/teeko/Desktop/C964/env
